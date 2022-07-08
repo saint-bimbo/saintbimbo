@@ -1,0 +1,61 @@
+
+
+html, body{
+  background-image: url('https://64.media.tumblr.com/1237cb8529142aa95cb4d2760afea3a8/cc4aa2969a61d947-26/s2048x3072/d5c4aa339d89b4e3f78b840316b3b118c7718b4a.jpg');
+}
+
+
+h1{
+color: white;
+}
+
+
+
+h3{
+  color: white;
+}
+
+
+
+h4{
+  color: white;
+}
+
+
+
+a, a:visited {
+  color: white;
+}
+
+
+a:hover {
+  color: white;
+}
+
+
+
+.fab, .fas{
+  background-color: #333333;
+}
+
+
+
+a > .fab, a > .fas{
+  color: #eeeeee;
+}
+
+/*
+This sets the colour of the circle around the icon when you hover over it
+ */
+
+.fab:hover, .fas:hover{
+  background-color: blue;
+}
+
+/*
+This sets the colour of icon itself when you hover over it
+ */
+
+a > .fab:hover, a > .fas:hover{
+  color: #eeeeee;
+}

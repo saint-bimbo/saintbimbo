@@ -20,16 +20,16 @@ img {
   object-fit: contain;
 }
 
-divbox {
+.box {
   background-color: lightgrey;
   width: 350px;
-  border: 3px solid blue;
+  border: 3px blue;
   padding: 25px;
   margin: 20px;
 }
 
 h1, h2, h3{
-  font-family: 'EB Garamond', serif;
+  font-family: 'Times New Roman', serif;
 }
 
 h1{

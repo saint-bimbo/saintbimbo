@@ -1,35 +1,37 @@
 
 
 html, body{
-  background-image: url('https://64.media.tumblr.com/3c3bfbf1db922ed996072adee6790252/56a8e78f816ad2e9-33/s2048x3072/38e261fbb0f6bcb73c1022129c7b6478dea3e47d.jpg');
+  background-image: url('https://64.media.tumblr.com/0d76f1adb594eb34c481f9f35d7de7ef/b876681e58a9462a-39/s2048x3072/11583d74729342b0ef008daf454e2de3711c21de.jpg');
 }
 
 
 h1{
-color: white;
+color: black;
 }
 
 
 
 h3{
-  color: white;
+  color: black;
 }
 
 
 
 h4{
-  color: white;
+  color: black;
 }
 
+a{
+  color: blue;
+}
 
-
-a, a:visited {
-  color: white;
+a:visited {
+  color: purple;
 }
 
 
 a:hover {
-  color: white;
+  color: blue;
 }
 
 

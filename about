@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
+<link rel="stylesheet" type="text/css" href="main.css" />
+<link rel="stylesheet" type="text/css" href="colour.css" />
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" integrity="sha384-gfdkjb5BdAXd+lj+gudLWI+BXq4IuLW5IT+brZEZsLFm++aCMlF1V92rMkPaX4PP" crossorigin="anonymous">
+
+
+<title>Saint Bimbo</title>
+</head>
+
+<body>
+<div class="list">
+
+<h1><a href="index.html"><img src="https://64.media.tumblr.com/e00fd9cfff67d20aad62c9e58bf2937d/de8324d6a8eafbcb-7e/s1280x1920/c75b2021f4b17d98cf55d0876bab88384e8c115e.pnj" alt="SAINT BIMBO" class="responsive" style="width:300px;height:100px;"></a></h1>
+<center><h3>･ ｡ﾟ☆: *.☽*ੈ✩<a href="index.html">HOME</a>‧₊˚.* :☆ﾟ.</h3></center>
+
+
+<center>
+
+<p> SBFC is an organization which creates a community space for visual artists to meet and share their work that may not fit into hegemonic short film programming. SBFC is a strictly non-commercial space, as of yet working just through the generosity of donations from our patrons. Saint Bimbo is the patron saint of all experimental, queer, avant garde, DIY filmmakers, especially those who lack the funds to submit their work to festivals, to galleries, to apply to residencies- whose work deserves to be shared, and deserve to receive that kinetic feedback of energy that being in a room with like minded artists provides. SBFC exists outside of commercialization, monetization, and profits, and our goal is to create a sanctuary apart from the heavily capitalized world of film and movies. As the medium of film and media becomes more accessible as a no-budget art form, Saint Bimbo believes the spaces for sharing visual art should adapt as such, moving away from traditional theaters into a revitalization of the 18th century salon, or more literally, Film Church.</p>
+
+<p> Ultimately, SBFC is a space for creativity, expression, and play. The only projects we turn away are ones with racist, transphobic, or any form of hateful intolerant message or imagery. Our programs are curated but still eclectic, and no matter what everyone gets to leave seeing something new. I created SBFC because I know so many very talented procrastinators, and I wanted to give them a deadline for their personal work, which is so easy to push to the side in this world that keeps you so busy with simply making rent. Equally as importantly, SBFC is always a night to meet and hang out with other passionate weirdos and commune with the ancient gods of pure human creativity & expression.</p>
+
+</center>
+
+
+<div class="contact">
+<h4>contact</h4>
+
+
+<a href="mailto:saintbimbo69@gmail.com"><i class="fas fa-envelope"></i></a>
+
+<a href="https://instagram.com/saint.bimbo" target="_blank"><i class="fab fa-instagram"></i></a>
+
+
+</div>
+
+
+</body>
+</html>

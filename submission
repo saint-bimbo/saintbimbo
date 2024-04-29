@@ -1,0 +1,55 @@
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
+<link rel="stylesheet" type="text/css" href="main.css" />
+<link rel="stylesheet" type="text/css" href="colour.css" />
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" integrity="sha384-gfdkjb5BdAXd+lj+gudLWI+BXq4IuLW5IT+brZEZsLFm++aCMlF1V92rMkPaX4PP" crossorigin="anonymous">
+
+
+<title>Saint Bimbo</title>
+</head>
+
+<body>
+<div class="list">
+
+<h1><a href="index.html"><img src="https://64.media.tumblr.com/ceaf0ec8fb0580ebe576906d217eb375/44dcdd8b0fb1d5e7-0f/s1280x1920/2ad9233b424e3ae184ebfaa78f9bdd0bae824858.pnj" alt="SAINT BIMBO" class="responsive" style="width:300px;height:100px;"></a></h1>
+<center><h3>･｡ﾟ☆: *.☽*ੈ✩<a href="index.html">HOME</a>‧₊˚.* :☆ﾟ.</h3></center>
+
+
+<center>
+<h3>Submission</h3>
+</center>
+
+<p>Please fill out this form to submit your films to church! Please note that although we do occasionally screen longer pieces, the majority of films we select are under 15 minutes.</p>
+<p><b>**if the link to your film requires a password to access, please put it in the notes section!!</b> Jotform will flag us if we use the word 'password'</p>
+
+<script type="text/javascript" src="https://form.jotform.com/jsform/241065023188047"></script>
+
+<pre>
+
+
+
+
+
+
+</pre>
+
+
+<div class="contact">
+<h4>contact</h4>
+
+
+<a href="mailto:saintbimbo69@gmail.com"><i class="fas fa-envelope"></i></a>
+
+<a href="https://instagram.com/saint.bimbo" target="_blank"><i class="fab fa-instagram"></i></a>
+
+
+</div>
+
+
+</body>
+</html>

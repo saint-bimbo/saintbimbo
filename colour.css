@@ -1,0 +1,52 @@
+
+
+html, body{
+  background-color: gray;
+}
+
+
+h1, h2, h3, h4{
+color: ivory;
+}
+
+
+a{
+  color: cyan;
+}
+
+a:visited {
+  color: blue;
+}
+
+
+a:hover {
+  color: blue;
+}
+
+
+
+.fab, .fas{
+  background-color: #333333;
+}
+
+
+
+a > .fab, a > .fas{
+  color: #eeeeee;
+}
+
+/*
+This sets the colour of the circle around the icon when you hover over it
+ */
+
+.fab:hover, .fas:hover{
+  background-color: blue;
+}
+
+/*
+This sets the colour of icon itself when you hover over it
+ */
+
+a > .fab:hover, a > .fas:hover{
+  color: #eeeeee;
+}

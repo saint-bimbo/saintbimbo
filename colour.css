@@ -1,17 +1,17 @@
 
 
 html, body{
-  background-color: gray;
+  background-color: lightgray;
 }
 
 
 h1, h2, h3, h4{
-color: ivory;
+color: black;
 }
 
 
 a{
-  color: cyan;
+  color: blue;
 }
 
 a:visited {

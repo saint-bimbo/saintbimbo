@@ -15,8 +15,8 @@ body{
 }
 
 .responsive {
-  height: auto;
   max-width: 600px;
+  height: auto;
 }
 
 .imagescroll {

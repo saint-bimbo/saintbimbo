@@ -166,7 +166,7 @@ a > .fab, a > .fas{
           font-size: 2em;
         }
         .list{
-          padding: 0em 2em;
+          padding: 0em .5em;
         }
         .bio{
           padding: 1em 0;
@@ -176,7 +176,7 @@ a > .fab, a > .fas{
           margin: 0 auto;
         }
         .responsive {
-          max-width: 150px
+          max-width: 200px
           height: auto;
         }
 

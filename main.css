@@ -166,7 +166,7 @@ a > .fab, a > .fas{
           font-size: 2em;
         }
         .list{
-          padding: 0em .5em;
+          padding: 0em 0em;
         }
         .bio{
           padding: 1em 0;

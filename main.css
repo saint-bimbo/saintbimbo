@@ -59,7 +59,7 @@ h4{
 }
 
 .list{
-  padding: 3em 8em;
+  padding: 3em 2em;
   animation: fadein 2s;
   position: relative;
   z-index: 0;

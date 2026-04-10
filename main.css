@@ -20,6 +20,12 @@ body{
   height: auto;
 }
 
+.logo {
+  width: 100%;
+  max-width: 350px;
+  height: auto;
+}
+
 .imagescroll {
   object-fit: contain;
   max-height: 200px
